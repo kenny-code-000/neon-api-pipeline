@@ -1,0 +1,14 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.envrc
+
+# notebooks
+.ipynb_checkpoints/
+
+# local outputs
+data/
